@@ -2,6 +2,8 @@
 ## 📸 Demo
 
 ![App Screenshot](screenshots/demo.png)
+## hosted link
+[Click here to view the app!](https://frejun-spa-ybe6.vercel.app/)
 This project is a **Single Page Application (SPA)** built with **React + Vite**.  
 It displays a paginated, searchable table of comments fetched from [jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com/).  
 The project was built to complete an assignment, including bonus features for editing and persisting data.
